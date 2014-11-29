@@ -1,0 +1,1 @@
+This is essentially a port of https://github.com/cpuguy83/docker-nagios to inherit from quintenk/supervisor so we can layer additional custom plugins and configurations on top of this base dockerfile using supervisord.
